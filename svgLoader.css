@@ -1,1 +1,24 @@
 /* CSS declarations go here */
+html,
+body,
+img {
+    background-color: #F7C723 !important;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+.spinner {
+    height: 100vh;
+    margin: 30% auto;
+}
+
+p {
+    text-align: center;
+}
